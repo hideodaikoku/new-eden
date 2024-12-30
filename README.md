@@ -8,7 +8,7 @@ empyrean
 i saw light
 at the bottom of
 the abyss
-so when i leave
-somebody will find
+so when i would leave
+somebody would find me
 the answer
 ⠎⠏⠗⠊⠝⠛ ⠊⠎ ⠓⠑⠗⠑
