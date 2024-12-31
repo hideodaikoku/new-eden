@@ -3,16 +3,16 @@
 
 *Bureau of Transportation Tokyo Metropolitan Map*
 
-agents of peace,
-and agents of change
-live in and out of curtains
-played by animas that 
-pay you back
-in diminishing returns, 
-six tokens of gratitude
-from the knave of cups, 
-and all the tea to go with it
-look back at the beauty
-of the wood grains 
-in a skateboard
-it’s poetry in motion
+agents of peace,<br/>
+and agents of change<br/>
+live in and out of curtains<br/>
+played by animas that <br/>
+pay you back<br/>
+in diminishing returns,<br/> 
+six tokens of gratitude<br/>
+from the knave of cups,<br/> 
+and all the tea to go with it<br/>
+look back at the beauty<br/>
+of the wood grains<br/> 
+in a skateboard<br/>
+it’s poetry in motion<br/>

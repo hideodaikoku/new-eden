@@ -1,12 +1,12 @@
 # ground zero
 ![ground zero](images/ground%20zero.jpeg)
 
-a phantom limb
-Is on its way to the nursery
-so the Swiss Army Man
-can wither into a mold of
-six tons of molten metal
-then submerged in
-a sub-zero ice bath
-steam gives way to
+a phantom limb</br>
+Is on its way to the nursery</br>
+so the Swiss Army Man</br>
+can wither into a mold of</br>
+six tons of molten metal</br>
+then submerged in</br>
+a sub-zero ice bath</br>
+steam gives way to</br>
 a new tool

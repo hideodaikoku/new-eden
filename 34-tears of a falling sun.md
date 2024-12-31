@@ -3,21 +3,21 @@
 
 *Image: John Frusciante’s Enclosure*
 
-your mind is a
-self-inscribing enclosure
-twisting and turning, 
-yet still breathing
-sometimes moving, 
-sometimes suspended
-i wish you could see 
-the water at its source
-what was once pure now full
-of sediment in sentiment
-cool fluid at the 
-troughs of your hands
-yet all you see is a reflection
-of the people you 
-wished we could be
-but what good is an image
-without the light of a falling sun?
+your mind is a<br/>
+self-inscribing enclosure<br/>
+twisting and turning, <br/>
+yet still breathing<br/>
+sometimes moving, <br/>
+sometimes suspended<br/>
+i wish you could see <br/>
+the water at its source<br/>
+what was once pure now full<br/>
+of sediment in sentiment<br/>
+cool fluid at the <br/>
+troughs of your hands<br/>
+yet all you see is a reflection<br/>
+of the people you<br/> 
+wished we could be<br/>
+but what good is an image<br/>
+without the light of a falling sun?<br/>
 
