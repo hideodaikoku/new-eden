@@ -1,12 +1,12 @@
 # eating hooks
 ![eating hooks](images/eating%20hooks.jpeg)
 
-there’s a carrot
-on a stick
-like the low hanging fruit
-in the willow tree
-its roots reach 
-the parched soil
-in search of deeper troughs
-the stick bends
+there’s a carrot</br>
+on a stick</br>
+like the low hanging fruit</br>
+in the willow tree</br>
+its roots reach</br>
+the parched soil</br>
+in search of deeper troughs</br>
+the stick bends</br>
 to the will of the carrot
