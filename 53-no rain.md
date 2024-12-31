@@ -1,11 +1,11 @@
 # no rain
 ![no rain](images/no%20rain.jpeg)
 
-dry, dark, 
-pools of wet sand
-the fire is dull with
-ambition::pale grass 
-under the dark moon
-your subconscious tremors
-and my imagination
+dry, dark,<br/> 
+pools of wet sand<br/>
+the fire is dull with<br/>
+ambition::pale grass<br/> 
+under the dark moon<br/>
+your subconscious tremors<br/>
+and my imagination<br/>
 bites me

@@ -1,18 +1,18 @@
 # the machine
 ![the machine](images/the%20machine.jpeg)
 
-the machine*
-has two valves
-and two pumps
-fed and fueled, by_
-two twin networks; 
-+one for pestilence
-the other for purity
-and an electrical system>
-running from 
-the control center,
-all the way down 
-to the ::core,
-one tendon
-at a time
+the machine*<br/>
+has two valves<br/>
+and two pumps<br/>
+fed and fueled, by_<br/>
+two twin networks;<br/> 
++one for pestilence<br/>
+the other for purity<br/>
+and an electrical system><br/>
+running from<br/>
+the control center,<br/>
+all the way down <br/>
+to the ::core,<br/>
+one tendon<br/>
+at a time<br/>
 /flex.

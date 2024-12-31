@@ -3,6 +3,6 @@
 
 *Claude Monet - The Garden Paintings*
 
-influx for the outflow
-one drop at a time
-into fertile land
+influx for the outflow<br/>
+one drop at a time<br/>
+into fertile land<br/>

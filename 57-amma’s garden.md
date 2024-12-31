@@ -3,12 +3,12 @@
 
 *Contemporary Golgotha, Stane Jagodič*
 
-there was a swing
-we made from rope
-and pillows
-hanging from the boughs
-of the mango tree in 
-amma’s garden 
-now the neighbors
-pick the mangos
+there was a swing<br/>
+we made from rope<br/>
+and pillows<br/>
+hanging from the boughs<br/>
+of the mango tree in<br/>
+amma’s garden<br/>
+now the neighbors<br/>
+pick the mangos<br/>
 in the monsoon

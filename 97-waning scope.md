@@ -1,13 +1,13 @@
 # waning scope
 ![waning scope](images/waning%20scope.jpeg)
 
-the marksman
-waits by the window pane
-through thin blinds
-staring and at the mirror
-of digital ecology
-and twenty first century
-cross-cultural economics ::
-is it windows
-or a mirror that
+the marksman<br/>
+waits by the window pane<br/>
+through thin blinds<br/>
+staring and at the mirror<br/>
+of digital ecology<br/>
+and twenty first century<br/>
+cross-cultural economics ::<br/>
+is it windows<br/>
+or a mirror that<br/>
 you’re looking out of?

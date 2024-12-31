@@ -1,13 +1,13 @@
 # fluffy bunny
 ![fluffy bunny](images/fluffy%20bunny.jpeg)
 
-i looked out of the
-window and saw a 
-fluffy bunny, burrowing
-holes into a small cubby
-basket basin bowl
-beneath the ocean tunnel
-waiting for the cool
-air to wash us away
-the currents
+i looked out of the<br/>
+window and saw a <br/>
+fluffy bunny, burrowing<br/>
+holes into a small cubby<br/>
+basket basin bowl<br/>
+beneath the ocean tunnel<br/>
+waiting for the cool<br/>
+air to wash us away<br/>
+the currents<br/>
 feel the same

@@ -1,11 +1,11 @@
 # rounded corners
 ![rounded corners](images/rounded%20corners.jpeg)
 
-the nautilus
-swam in search of
-white pears and
-deep sea bait
-but instead found
-a soft wooden board
-to turn jagged edges
+the nautilus<br/>
+swam in search of<br/>
+white pears and<br/>
+deep sea bait<br/>
+but instead found<br/>
+a soft wooden board<br/>
+to turn jagged edges<br/>
 into rounded corners

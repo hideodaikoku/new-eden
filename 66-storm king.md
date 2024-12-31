@@ -1,8 +1,8 @@
 # storm king
 ![storm king](images/storm%20king.jpeg)
 
-big strides
-twin footed run up
-turn around
-gather momentum
+big strides<br/>
+twin footed run up<br/>
+turn around<br/>
+gather momentum<br/>
 to walk on lightning

@@ -1,15 +1,15 @@
 # the engine
 ![the engine](images/the%20engine.jpeg)
 
-tiny moving parts
-connected in perpetual motion
-if I could just twist, one lever
-two cogs and a dial,
-let the steam run free
-the water, cool and calm
-collected into pools so the
-animals could nestle 
-under the shade of an
-ivy colored, rust bucket.
-two crows sit side by side
+tiny moving parts<br/>
+connected in perpetual motion<br/>
+if I could just twist, one lever<br/>
+two cogs and a dial,<br/>
+let the steam run free<br/>
+the water, cool and calm<br/>
+collected into pools so the<br/>
+animals could nestle<br/>
+under the shade of an<br/>
+ivy colored, rust bucket.<br/>
+two crows sit side by side<br/>
 on the power lines

@@ -1,13 +1,13 @@
 # between realities
 ![between realities](images/between%20realities.jpeg)
 
-I opened the third
-and could not close it
-i took the red pill
-to seek the yellow one
-i opened both doors
-only to stay inside::
-disintegrate into
-the depths
-of a deeper blue.
+I opened the third<br/>
+and could not close it<br/>
+i took the red pill<br/>
+to seek the yellow one<br/>
+i opened both doors<br/>
+only to stay inside::<br/>
+disintegrate into<br/>
+the depths<br/>
+of a deeper blue.<br/>
 everything connects.

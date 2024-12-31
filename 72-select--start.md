@@ -1,14 +1,14 @@
 # select::start
 ![select--start](images/select--start.jpeg)
 
-it’s all 
-mostly nightmares
-in waking minutes
-the plurality 
-of syllogisms
-that govern 
-tactical economics
-and soft diplomacies
-in my dreams
-I see visions of 
+it’s all<br/> 
+mostly nightmares<br/>
+in waking minutes<br/>
+the plurality<br/>
+of syllogisms<br/>
+that govern<br/> 
+tactical economics<br/>
+and soft diplomacies<br/>
+in my dreams<br/>
+I see visions of <br/>
 the end

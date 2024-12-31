@@ -1,13 +1,13 @@
 # happy meal
 ![happy meal](images/happy%20meal.jpeg)
 
-the happy meal
-had a soft bun, 
-some deep fried potatoes
-and a diet coca cola.
-couldn’t find any rice though
-just a plastic bag,
-and a six foot six inch
-raging bull, 
-running up for
+the happy meal<br/>
+had a soft bun,<br/> 
+some deep fried potatoes<br/>
+and a diet coca cola.<br/>
+couldn’t find any rice though<br/>
+just a plastic bag,<br/>
+and a six foot six inch<br/>
+raging bull,<br/> 
+running up for<br/>
 a slam dunk

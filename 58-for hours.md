@@ -1,12 +1,12 @@
 # for hours
 ![for hours](images/for%20hours.jpeg)
 
-we could
-talk for hours
-and let the sunset
-the tone
-or be quiet
-and let the wind 
-do the talking
-turn the bruises
+we could<br/>
+talk for hours<br/>
+and let the sunset<br/>
+the tone<br/>
+or be quiet<br/>
+and let the wind<br/>
+do the talking<br/>
+turn the bruises<br/>
 into music

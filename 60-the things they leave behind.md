@@ -1,13 +1,13 @@
 # the things they leave behind
 ![the things they leave behind](images/the%20things%20they%20leave%20behind.jpeg)
 
-a photo album
-of sorts, with 
-memories from a 
-world where
-everything not saved
-would be lost, a window
-to a time when
-an ink blot could
-say more than
+a photo album<br/>
+of sorts, with<br/> 
+memories from a<br/> 
+world where<br/>
+everything not saved<br/>
+would be lost, a window<br/>
+to a time when<br/>
+an ink blot could<br/>
+say more than<br/>
 the words around it

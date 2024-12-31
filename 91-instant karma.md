@@ -1,17 +1,17 @@
 # instant karma
 ![instant karma](images/instant%20karma.png)
 
-the weather report told me
-of how the policeman’s son
-had a criminal habit
-and the physician’s daughter
-became a liberal martyr
-how my neighborhood stationer
-became a store of inconvenience
-how the young chess prodigy 
-now works in construction
-and the former tech 
-billionaire now lives 
-in the countryside
-baking donuts, and 
+the weather report told me<br/>
+of how the policeman’s son<br/>
+had a criminal habit<br/>
+and the physician’s daughter<br/>
+became a liberal martyr<br/>
+how my neighborhood stationer<br/>
+became a store of inconvenience<br/>
+how the young chess prodigy<br/>
+now works in construction<br/>
+and the former tech<br/> 
+billionaire now lives <br/>
+in the countryside<br/>
+baking donuts, and<br/> 
 lemon meringue pie

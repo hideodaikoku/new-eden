@@ -1,10 +1,10 @@
 # rare earth humans
 ![rare earth humans](images/rare%20earth%20humans.jpeg)
 
-centuries of 
-scoped and 
-dystopian views
-gauged the
-luteal phase
-terminating in
+centuries of<br/> 
+scoped and<br/> 
+dystopian views<br/>
+gauged the<br/>
+luteal phase<br/>
+terminating in<br/>
 recycled life
