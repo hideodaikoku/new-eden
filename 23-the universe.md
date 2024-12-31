@@ -7,3 +7,9 @@ right in front, but just beyond reach</br>
 folding inwards, inside out</br>
 commit to a direction</br>
 and walk
+
+```markdown
+title: "major motion picture"
+date: "2024-08-12"
+author: "hideodaikoku"
+```

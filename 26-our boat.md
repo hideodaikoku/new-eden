@@ -17,3 +17,10 @@ and let the wind carry us</br>
 to the beach
 
 *Illustration: Rek, 100 Rabbits *
+
+
+```markdown
+title: "our boat"
+date: "2024-08-14"
+author: "hideodaikoku"
+```

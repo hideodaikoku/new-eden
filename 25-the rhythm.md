@@ -14,3 +14,9 @@ lean back</br>
 look into the water</br>
 `i hear it now! `</br>
 keep listening :)
+
+```markdown
+title: "the rhythm"
+date: "2024-08-13"
+author: "hideodaikoku"
+```

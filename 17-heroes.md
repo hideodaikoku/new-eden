@@ -13,3 +13,10 @@ and mass hysteria</br>
 of the evening news</br>
 the good people</br>
 still shine a beacon into the sky
+
+
+```markdown
+title: "heroes"
+date: "2024-08-04"
+author: "hideodaikoku"
+```

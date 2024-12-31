@@ -17,3 +17,10 @@ that reality might be</br>
 but three steps away from the closest</br>
 phone booth, dial the number</br>
 exitsimulation</br>
+
+
+```markdown
+title: "trapezium"
+date: "2024-07-19"
+author: "hideodaikoku"
+```

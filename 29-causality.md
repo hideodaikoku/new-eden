@@ -18,3 +18,9 @@ What came first?</br>
 The chicken or the nugget?</br>
 
 *Rube Goldberg Machine by Joseph Herscher *
+
+```markdown
+title: "causality"
+date: "2024-08-17"
+author: "hideodaikoku"
+```

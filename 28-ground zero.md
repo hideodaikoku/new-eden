@@ -10,3 +10,9 @@ then submerged in</br>
 a sub-zero ice bath</br>
 steam gives way to</br>
 a new tool
+
+```markdown
+title: "ground zero"
+date: "2024-08-16"
+author: "hideodaikoku"
+```

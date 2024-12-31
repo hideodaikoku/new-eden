@@ -14,3 +14,9 @@ The winning team understands<br/>
 The loneliness of the long distance runner<br/>
 Shadow come closer as the runner<br/>
 Goes further<br/>
+
+```markdown
+title: "the winning team"
+date: "2024-06-28"
+author: "hideodaikoku"
+```

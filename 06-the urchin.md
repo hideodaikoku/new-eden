@@ -10,3 +10,9 @@ her needles snap<br/>
 revealing a soft belly<br/>
 for the fisherman<br/>
 to nibble on
+
+```markdown
+title: "the urchin"
+date: "2024-07-16"
+author: "hideodaikoku"
+```

@@ -14,3 +14,9 @@ the toxins deep, now spread</br>
 to the treetops</br>
 
 Illustration by Paul Veenvliet
+
+```markdown
+title: "amphibian"
+date: "2024-08-04"
+author: "hideodaikoku"
+```

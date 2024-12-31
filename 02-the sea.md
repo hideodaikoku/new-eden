@@ -19,3 +19,9 @@ her freedom is her greatest illusion<br/>
 I cannot pray step much further<br/>
 for now I miss the impasse<br/> 
 of steel and concrete walls<br/>
+
+```markdown
+title: "the sea"
+date: "2024-06-24"
+author: "hideodaikoku"
+```

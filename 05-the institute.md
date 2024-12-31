@@ -11,3 +11,9 @@ It values employee freedom,<br/>
 You may say as you please<br/>
 But only so long as what you say<br/>
 Pleases<br/>
+
+```markdown
+title: "the institute"
+date: "2024-07-11"
+author: "hideodaikoku"
+```

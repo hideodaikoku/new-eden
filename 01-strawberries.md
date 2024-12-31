@@ -14,3 +14,9 @@ Like a familiar smile<br/>
 On unfamiliar faces,<br/>
 I dream of a world<br/>
 Where I long for the taste of strawberries.<br/>
+
+```markdown
+title: "strawberries"
+date: "2023-01-30"
+author: "hideodaikoku"
+```

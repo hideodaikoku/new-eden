@@ -18,3 +18,10 @@ so the townspeople could</br>
 rebuild the shoreline</br>
 and protect themselves</br>
 from the storm to come
+
+
+```markdown
+title: "minus one"
+date: "2024-08-01"
+author: "hideodaikoku"
+```

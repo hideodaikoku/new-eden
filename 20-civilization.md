@@ -11,3 +11,9 @@ of fire and cinder</br>
 who was it?</br>
 that started it all</br>
 a stone, the wind or the clouds?
+
+```markdown
+title: "civilization"
+date: "2024-09-18"
+author: "hideodaikoku"
+```

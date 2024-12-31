@@ -9,3 +9,9 @@ so when you rise to the surface<br/>
 you may quench your thirst with<br/>
 with a long clear glass<br/>
 of golden sunlight<br/>
+
+```markdown
+title: "dive"
+date: "2024-07-17"
+author: "hideodaikoku"
+```

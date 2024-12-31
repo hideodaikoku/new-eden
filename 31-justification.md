@@ -37,3 +37,10 @@ that’s chaotic! you must align!
 <hr/>
 
 </div>
+
+
+```markdown
+title: "justification"
+date: "2024-08-19"
+author: "hideodaikoku"
+```

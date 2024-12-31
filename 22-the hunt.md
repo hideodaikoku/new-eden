@@ -21,3 +21,9 @@ tiger and his crew can triumph</br>
 the hunt is over, they won</br>
 the forest breathes, anticipating</br>
 rain, dust and sunny days
+
+```markdown
+title: "the hunt"
+date: "2024-08-10"
+author: "hideodaikoku"
+```

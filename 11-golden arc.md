@@ -14,3 +14,9 @@ hell is the land of freedom</br>
 physical torture is much more forgiving</br>
 from the soul crushing omnipotence</br>
 of pacifism
+
+```markdown
+title: "golden arc"
+date: "2024-07-20"
+author: "hideodaikoku"
+```

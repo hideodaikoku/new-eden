@@ -9,3 +9,9 @@ coated in the film grain</br>
 of a close to life documentary</br>
 played on a dirty projector</br>
 in a gas station, by the sea
+
+```markdown
+title: "major motion picture"
+date: "2024-08-12"
+author: "hideodaikoku"
+```

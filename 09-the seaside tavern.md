@@ -1,6 +1,8 @@
 # the seaside tavern
 
 ![the seaside tavern](images/the%20seaside%20tavern.jpeg)
+*illustration: Cassie Marie Edwards*
+
 
 salt water taffy is delicious</br>
 at the seaside tavern</br>
@@ -17,4 +19,8 @@ he wouldn’t eat marsh water flies</br>
 salt water taffy was enough</br>
 in the company of his two best friends</br>
 
-*illustration: Cassie Marie Edwards*
+```markdown
+title: "the seaside tavern"
+date: "2024-07-18"
+author: "hideodaikoku"
+```

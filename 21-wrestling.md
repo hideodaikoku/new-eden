@@ -1,5 +1,6 @@
 # wrestling
 ![wrestling](images/wrestling.jpeg)
+*The Wrestlers - Uffizi Collection*
 
 colors of freedom</br>
 liberty and democracy</br>
@@ -15,4 +16,9 @@ and then it’s back to bloodied noses</br>
 with broken teeth, with</br>
 different colors next round
 
-*The Wrestlers - Uffizi Collection*
+```markdown
+title: "wrestling"
+date: "2024-08-08"
+author: "hideodaikoku"
+```
+
