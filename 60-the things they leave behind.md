@@ -11,3 +11,9 @@ to a time when<br/>
 an ink blot could<br/>
 say more than<br/>
 the words around it
+
+```markdown
+title: "the things they leave behind"
+date: "2024-10-10"
+author: "hideodaikoku"
+```

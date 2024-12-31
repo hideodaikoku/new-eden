@@ -4,3 +4,9 @@
 destruction leads<br/> 
 to new creation<br/>
 there is always hope
+
+```markdown
+title: "murphy's law"
+date: "2024-11-06"
+author: "hideodaikoku"
+```

@@ -25,3 +25,9 @@ in reverence to the park bench<br/>
 It's not easy being friends with the wind<br/>
 I just hope the appleseeds<br/> 
 make their way back home
+
+```markdown
+title: "autumn leaves"
+date: "2024-09-01"
+author: "hideodaikoku"
+```

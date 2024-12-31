@@ -9,3 +9,9 @@ under the dark moon<br/>
 your subconscious tremors<br/>
 and my imagination<br/>
 bites me
+
+```markdown
+title: "no rain"
+date: "2024-09-30"
+author: "hideodaikoku"
+```

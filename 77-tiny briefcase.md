@@ -6,3 +6,9 @@ on the top of<br/>
 my tiny briefcase.<br/> 
 there was so much<br/>
 to unpack
+
+```markdown
+title: "tiny briefcase"
+date: "2024-11-26"
+author: "hideodaikoku"
+```

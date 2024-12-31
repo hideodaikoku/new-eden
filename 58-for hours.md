@@ -10,3 +10,9 @@ and let the wind<br/>
 do the talking<br/>
 turn the bruises<br/>
 into music
+
+```markdown
+title: "for hours"
+date: "2024-10-09"
+author: "hideodaikoku"
+```

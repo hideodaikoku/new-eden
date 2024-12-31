@@ -9,3 +9,9 @@ and motion in sound<br/>
 march each day<br/>
 to sound of<br/>
 silent drumming
+
+```markdown
+title: "silent drumming"
+date: "2024-12-12"
+author: "hideodaikoku"
+```

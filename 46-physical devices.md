@@ -13,3 +13,8 @@ punched the ceiling.<br/>
 the walls put a dent in me.<br/>
 ⠺⠊⠝⠞⠑⠗ ⠁⠇⠺⠁⠽⠎ ⠞⠥⠗⠝⠎ ⠞⠕ ⠎⠏⠗⠊⠝⠛
 
+```markdown
+title: "physical devices"
+date: "2024-09-15"
+author: "hideodaikoku"
+```

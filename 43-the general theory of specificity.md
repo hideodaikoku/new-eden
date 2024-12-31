@@ -10,3 +10,9 @@ when space and time take a vacation<br/>
 enough room to read the situation<br/>
 up-quarks in quiet elation<br/>
 a microcosm on probation
+
+```markdown
+title: "the general theory of specificity"
+date: "2024-09-13"
+author: "hideodaikoku"
+```

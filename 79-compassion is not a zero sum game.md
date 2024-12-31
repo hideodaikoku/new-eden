@@ -6,3 +6,9 @@
 🐳+🚸= 🍀<br/>
 🌾x✨= 💰<br/>
 🏦/🍽️ = 💴
+
+```markdown
+title: "compassion is not a zero sum game"
+date: "2024-11-29"
+author: "hideodaikoku"
+```

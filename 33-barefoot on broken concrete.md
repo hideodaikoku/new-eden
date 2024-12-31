@@ -11,3 +11,10 @@ Concrete stones nest themselves between<br/>
 My mono hominid toes without the unkind obstruction<br/>
 Of uncomfortable shoes<br/>
 I feel the earth play its rhythm<br/>
+
+
+```markdown
+title: "barefoot on broken concrete"
+date: "2022-09-06"
+author: "hideodaikoku"
+```

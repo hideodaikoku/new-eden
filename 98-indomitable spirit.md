@@ -9,3 +9,9 @@ and it will not be televised<br/>
 these things take time<br/>
 no human is an island<br/>
 :: forward ++
+
+```markdown
+title: "indomitable spirit"
+date: "2024-12-17"
+author: "hideodaikoku"
+```

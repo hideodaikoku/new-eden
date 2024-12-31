@@ -12,3 +12,9 @@ and soft diplomacies<br/>
 in my dreams<br/>
 I see visions of <br/>
 the end
+
+```markdown
+title: "select :: start"
+date: "2024-11-16"
+author: "hideodaikoku"
+```

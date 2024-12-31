@@ -16,3 +16,9 @@ to the ::core,<br/>
 one tendon<br/>
 at a time<br/>
 /flex.
+
+```markdown
+title: "the machine"
+date: "2024-09-27"
+author: "hideodaikoku"
+```

@@ -11,3 +11,9 @@ cross-cultural economics ::<br/>
 is it windows<br/>
 or a mirror that<br/>
 you’re looking out of?
+
+```markdown
+title: "waning scope"
+date: "2024-12-16"
+author: "hideodaikoku"
+```

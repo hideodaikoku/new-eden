@@ -11,3 +11,9 @@ one way traffic in<br/>
 a two way street<br/>
 twist the tree it’s<br/>
 tricks and treats
+
+```markdown
+title: "FOSS"
+date: "2024-09-22"
+author: "hideodaikoku"
+```

@@ -11,3 +11,9 @@ disintegrate into<br/>
 the depths<br/>
 of a deeper blue.<br/>
 everything connects.
+
+```markdown
+title: "between realities"
+date: "2024-10-09"
+author: "hideodaikoku"
+```

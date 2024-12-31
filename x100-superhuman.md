@@ -15,3 +15,9 @@ as an animated character<br/>
 on the back of a cereal box<br/>
 behind a sunday morning<br/> 
 cartoon about dinosaurs
+
+```markdown
+title: "superhuman"
+date: "2024-12-20"
+author: "hideodaikoku"
+```

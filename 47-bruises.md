@@ -17,3 +17,9 @@
 “You’ll experience it differently”<br/>
 `“Pain?”`<br/>
 “Everything”
+
+```markdown
+title: "bruises"
+date: "2024-09-17"
+author: "hideodaikoku"
+```

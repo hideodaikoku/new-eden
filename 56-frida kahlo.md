@@ -9,3 +9,9 @@ and rice<br/>
 on a banana leaf<br/>
 with turmeric<br/>
 and anchovies
+
+```markdown
+title: "frida kahlo"
+date: "2024-10-05"
+author: "hideodaikoku"
+```

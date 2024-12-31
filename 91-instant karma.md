@@ -15,3 +15,9 @@ billionaire now lives <br/>
 in the countryside<br/>
 baking donuts, and<br/> 
 lemon meringue pie
+
+```markdown
+title: "instant karma"
+date: "2024-12-11"
+author: "hideodaikoku"
+```

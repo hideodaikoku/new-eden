@@ -10,3 +10,9 @@ truth leads to a desirable outcome<br/>
 chain the methods<br/>
 and you will have<br/>
 the combinator
+
+```markdown
+title: "recursion"
+date: "2024-09-18"
+author: "hideodaikoku"
+```

@@ -11,3 +11,9 @@ be fluid, yet resolute<br/>
 and increasingly hard to define<br/>
 :: be the ocean<br/>
 yet seek the horizon
+
+```markdown
+title: "ludleth"
+date: "2024-12-17"
+author: "hideodaikoku"
+```

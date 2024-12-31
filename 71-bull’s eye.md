@@ -9,3 +9,9 @@ you’d best be sure<br/>
 not to miss.<br/>
 next time<br/>
 aim higher
+
+```markdown
+title: "bull's eye"
+date: "2024-11-12"
+author: "hideodaikoku"
+```

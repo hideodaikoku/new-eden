@@ -12,3 +12,9 @@ amma’s garden<br/>
 now the neighbors<br/>
 pick the mangos<br/>
 in the monsoon
+
+```markdown
+title: "amma's garden"
+date: "2024-10-07"
+author: "hideodaikoku"
+```

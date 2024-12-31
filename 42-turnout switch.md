@@ -16,3 +16,9 @@ look back at the beauty<br/>
 of the wood grains<br/> 
 in a skateboard<br/>
 it’s poetry in motion<br/>
+
+```markdown
+title: "turnout switch"
+date: "2024-09-11"
+author: "hideodaikoku"
+```

@@ -21,3 +21,8 @@ wished we could be<br/>
 but what good is an image<br/>
 without the light of a falling sun?<br/>
 
+```markdown
+title: "tears of a fallen sun"
+date: "2024-11-12"
+author: "hideodaikoku"
+```

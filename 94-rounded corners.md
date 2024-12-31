@@ -9,3 +9,9 @@ but instead found<br/>
 a soft wooden board<br/>
 to turn jagged edges<br/>
 into rounded corners
+
+```markdown
+title: "rounded corners"
+date: "2024-12-14"
+author: "hideodaikoku"
+```

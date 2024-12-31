@@ -8,3 +8,9 @@ and my pet rock<br/>
 sat on the edge<br/>
 singing songs about<br/>
 new eden
+
+```markdown
+title: "my pet rock"
+date: "2024-11-30"
+author: "hideodaikoku"
+```

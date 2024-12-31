@@ -14,3 +14,9 @@ filter the noise<br/>
 and see the Void<br/>
 for what it truly is<br/>
 the beauty and the pain
+
+```markdown
+title: "waxing and wailing"
+date: "2024-08-26"
+author: "hideodaikoku"
+```

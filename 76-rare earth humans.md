@@ -8,3 +8,9 @@ gauged the<br/>
 luteal phase<br/>
 terminating in<br/>
 recycled life
+
+```markdown
+title: "rare earth humans"
+date: "2024-11-26"
+author: "hideodaikoku"
+```

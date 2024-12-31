@@ -15,4 +15,10 @@ the staircase shifts form <br/>
 when we look ahead<br/>
 cracks in the landing<br/>
 give way to the rose that grew<br/>
-from the concreteq
+from the concrete
+
+```markdown
+title: "the staircase"
+date: "2024-08-28"
+author: "hideodaikoku"
+```

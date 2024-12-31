@@ -14,3 +14,9 @@ sing to each other<br/>
 all together,<br/>
 one chorus now,<br/>
 it’s the year of phoenix
+
+```markdown
+title: "jackson pollock"
+date: "2024-08-27"
+author: "hideodaikoku"
+```

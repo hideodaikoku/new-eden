@@ -14,3 +14,9 @@ I wonder if you mistook me<br/>
 for the light house or<br/>
 gust of wind<br/>
 I am the ocean
+
+```markdown
+title: "shoreline"
+date: "2024-11-21"
+author: "hideodaikoku"
+```

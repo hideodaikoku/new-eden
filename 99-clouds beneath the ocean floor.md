@@ -12,3 +12,9 @@ or two :: everest isn’t<br/>
 tall enough to see<br/>
 the clouds beneath<br/>
 the ocean floor
+
+```markdown
+title: "clouds beneath the ocean floor"
+date: "2024-12-19"
+author: "hideodaikoku"
+```

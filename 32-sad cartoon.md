@@ -10,3 +10,9 @@ each other</br>
 over wireless</br> 
 communication</br>
 in emojis</br>
+
+```markdown
+title: "sad cartoon"
+date: "2021-10-02"
+author: "hideodaikoku"
+```
