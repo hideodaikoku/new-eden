@@ -1,6 +1,6 @@
 # here is good
 ![here is good](images/here%20is%20good.jpeg)
 
-Break the pattern
-To question everything
+Break the pattern</br>
+To question everything</br>
 Is freedom

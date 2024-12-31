@@ -1,16 +1,16 @@
 # golden arc
 ![golden arc](images/golden%20arc.jpeg)
 
-the strong and righteous
-stand bright atop the hill
-on a golden arc
-brandishing the holy word
-staff in one hand, scripture in another
-yet as we look down on this painting
-we see the hill, bloodied by the
-toils of the weak and dark
-but they are free now.
-hell is the land of freedom
-physical torture is much more forgiving
-from the soul crushing omnipotence
+the strong and righteous</br>
+stand bright atop the hill</br>
+on a golden arc</br>
+brandishing the holy word</br>
+staff in one hand, scripture in another</br>
+yet as we look down on this painting</br>
+we see the hill, bloodied by the</br>
+toils of the weak and dark</br>
+but they are free now.</br>
+hell is the land of freedom</br>
+physical torture is much more forgiving</br>
+from the soul crushing omnipotence</br>
 of pacifism
