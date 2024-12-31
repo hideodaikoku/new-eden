@@ -1,13 +1,13 @@
 # civilization
 ![civilization](images/civilization.jpeg)
 
-kindle the dying ember
-so the flame may burn
-yet another revolution
-the old must leave
-what the young can surmise
-repeat the cycle
-of fire and cinder
-who was it?
-that started it all
+kindle the dying ember</br>
+so the flame may burn</br>
+yet another revolution</br>
+the old must leave</br>
+what the young can surmise</br>
+repeat the cycle</br>
+of fire and cinder</br>
+who was it?</br>
+that started it all</br>
 a stone, the wind or the clouds?
